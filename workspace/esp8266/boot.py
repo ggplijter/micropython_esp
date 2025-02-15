@@ -8,7 +8,7 @@ import ucryptolib
 esp.osdebug(None)
 
 DO_CONNECT_WIFI = True
-DO_IMPORT_WEBREPL = True
+DO_IMPORT_WEBREPL = False
 
 if DO_IMPORT_WEBREPL:
     import webrepl
